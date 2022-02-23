@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\Abstracao_RPG.exe
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\Abstracao_RPG.deps.json
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\Abstracao_RPG.runtimeconfig.json
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\Abstracao_RPG.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\Abstracao_RPG.dll
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\ref\Abstracao_RPG.dll
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\bin\Debug\net5.0\Abstracao_RPG.pdb
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.dll
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\ref\Abstracao_RPG.dll
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.pdb
+C:\Users\Daniel\Desktop\project\Abstracao_RPG\obj\Debug\net5.0\Abstracao_RPG.genruntimeconfig.cache
